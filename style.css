@@ -1,0 +1,69 @@
+body{
+  background-color: #BAABDA;
+  color: #292C6D;
+  font-family: futura;
+}
+h1 {
+  color:;
+  font-family: academy engraved let;
+  font-weight: 100;
+}
+div {
+  background: #FFF9F9;
+  padding: 60px;
+  margin: 50px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 4px;
+}
+h2 {
+ color: #694E4E;
+}
+p{
+color: #0F0E0E;
+}
+
+
+#logo {
+  width: 200px;
+}
+.img-circle {
+  border-radius: 50%;
+
+}
+
+@media (max-width: 960px){
+
+  .card-design {
+    width: 700px;
+  }
+}
+
+@media (max-width: 720px){
+
+  .card-design  {
+    width: 400px;
+  }
+}
+@media (max-width: 540px){
+
+  .card-design  {
+    width: 300px;
+  }
+}
+}
+
+.card-design {
+  background-color: #FED2AA;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  margin: 50px 30px;
+}
+
+.site {
+  background-color: #FF9999;
+  paddind: 60px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+
+}
+
+}
